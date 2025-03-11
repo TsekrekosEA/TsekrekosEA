@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Andrianos</h1>
 <h3 align="center">A Computer Science Student in the Kapodistrian University of Athens</h3>
 
+I'm pationate about Algorithms, Low-level system optimization, Embedded Systems and Computer Architecture
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tsekrekosea&label=Profile%20views&color=0e75b6&style=flat" alt="tsekrekosea" /> </p>
 
 - 🔭 I’m currently working on **University Assignments!**
