@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Andrianos</h1>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1FF74C&width=435&separator=%3C&lines=printf(%22Hi+%F0%9F%91%8B%2C+I'm+Andrianos!%22);" alt="Typing SVG" /></a></h1>
 <h3 align="center">A Computer Science Student in the Kapodistrian University of Athens</h3>
 
 I'm pationate about Algorithms, Low-level system optimization, Embedded Systems and Computer Architecture
@@ -13,7 +13,7 @@ I'm pationate about Algorithms, Low-level system optimization, Embedded Systems 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/tsekrekosea" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tsekrekosea" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/egor-andrianos-tsekrekos-107418298/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tsekrekosea" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
