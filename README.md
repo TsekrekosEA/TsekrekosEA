@@ -1,13 +1,9 @@
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1FF74C&width=435&separator=%3C&lines=printf(%22Hi+%F0%9F%91%8B%2C+I'm+Andrianos!%22);" alt="Typing SVG" /></a></h1>
 <h3 align="center">A Computer Science Student in the Kapodistrian University of Athens</h3>
 
-I'm pationate about Algorithms, Low-level system optimization, Embedded Systems and Computer Architecture
+I'm pationate about Emulation, Machine Learning and Algorithm Optimization
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tsekrekosea&label=Profile%20views&color=0e75b6&style=flat" alt="tsekrekosea" /> </p>
-
-- 🔭 I’m currently working on **University Assignments!**
-
-- 🌱 I’m currently learning **C, C++, Java, Python, Assembly and Rust**
 
 - 📫 How to reach me **egor.andrianos.tsekrekos@gmail.com**
 
