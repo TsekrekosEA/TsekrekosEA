@@ -28,8 +28,6 @@
 <!--                         ABOUT ME                              -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img align="right" width="360" src="https://github-readme-stats.vercel.app/api?username=TsekrekosEA&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4A8FD4&icon_color=4A8FD4&text_color=C9D1D9&rank_icon=github" alt="GitHub Stats"/>
-
 ### About me
 
 - 3rd year **CS & Telecom Engineering** student at **EKPA**, Athens
