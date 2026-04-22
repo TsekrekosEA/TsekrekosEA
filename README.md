@@ -35,6 +35,7 @@
 -  Currently exploring **agentic AI workflows** — multi-agent systems with sub-agent delegation, automated test validation, and adversarial security agents
 -  Speak **Greek** · **English (C2)** · **Russian (C1)** · **French (A1)**
 -  Reach me at **egor.andrianos.tsekrekos@gmail.com**
+-  Check out my portfolio : https://tsekrekosea-portfolio.vercel.app/
 -  Open to **software engineering / ML internships** in Greece
 
 <br clear="right"/>
