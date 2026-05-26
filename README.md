@@ -198,5 +198,5 @@ The first public, fully-documented emulator of the Burroughs B1700 — a 1972 ma
 </p>
 
 <p align="center">
-  <i>Open to internship opportunities in Greece · Summer / Fall 2026</i>
+  <i>Open to potential work/contracts</i>
 </p>
